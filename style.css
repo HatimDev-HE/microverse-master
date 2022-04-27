@@ -1,14 +1,21 @@
 #image{
-  position:relative;
-  max-width:50px;
-  border-radius:5px;
-  height:auto;
-}
-h1{
-  position:relative;
-  bottom:100px;
-}
-main{
+    position: relative;
+    width:50%;
+    border-radius:5px;
+    height:auto;
+    display: inline-block;  
+    margin: auto; 
+    text-align: center;
+   }
+    h1{
+      font-size: 20px;
+      position: relative;
+      bottom: 500px;
+      text-align: center;
+      font-family: Colonna MT;
+    }
+    main{
       background: linear-gradient(90deg, rgba(162,170,172,1) 0%, rgba(90,91,116,1) 100%, rgba(2,0,36,1) 100%);
-}
+    }
+
 
