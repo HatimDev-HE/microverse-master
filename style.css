@@ -4,3 +4,11 @@
   border-radius:5px;
   height:auto;
 }
+h1{
+  position:relative;
+  bottom:100px;
+}
+main{
+      background: linear-gradient(90deg, rgba(162,170,172,1) 0%, rgba(90,91,116,1) 100%, rgba(2,0,36,1) 100%);
+}
+
